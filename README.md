@@ -1,1 +1,1 @@
-1.Hafta kapsamında Algoritma Sorulari ödevidir.
+2.Hafta kapsamında Algoritma Sorulari ödevidir.
