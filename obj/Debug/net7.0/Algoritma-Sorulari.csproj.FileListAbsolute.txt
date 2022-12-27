@@ -1,0 +1,15 @@
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\bin\Debug\net7.0\Algoritma-Sorulari.exe
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\bin\Debug\net7.0\Algoritma-Sorulari.deps.json
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\bin\Debug\net7.0\Algoritma-Sorulari.runtimeconfig.json
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\bin\Debug\net7.0\Algoritma-Sorulari.dll
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\bin\Debug\net7.0\Algoritma-Sorulari.pdb
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\obj\Debug\net7.0\Algoritma-Sorulari.csproj.AssemblyReference.cache
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\obj\Debug\net7.0\Algoritma-Sorulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\obj\Debug\net7.0\Algoritma-Sorulari.AssemblyInfoInputs.cache
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\obj\Debug\net7.0\Algoritma-Sorulari.AssemblyInfo.cs
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\obj\Debug\net7.0\Algoritma-Sorulari.csproj.CoreCompileInputs.cache
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\obj\Debug\net7.0\Algoritma-Sorulari.dll
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\obj\Debug\net7.0\refint\Algoritma-Sorulari.dll
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\obj\Debug\net7.0\Algoritma-Sorulari.pdb
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\obj\Debug\net7.0\Algoritma-Sorulari.genruntimeconfig.cache
+C:\Users\argeuser\Desktop\Projeler\Algoritma-Sorulari\obj\Debug\net7.0\ref\Algoritma-Sorulari.dll
